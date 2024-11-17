@@ -10,13 +10,14 @@ O arquivo app-ads.txt informa aos anunciantes quais origens de anúncio podem ve
 
 
 
-
+----------------
 
 Política de Privacidade
 
 https://gamerextremoelitehackerbr.github.io/app-ads/my%20politica%20de%20privacidade%20ueni%20ex1.txt
 
 
+----------------
 
 
 Política de Reembolso
